@@ -1,1 +1,1 @@
-# TIC-Diseno-con-principios-HCI
+# TIC-Diseño-con-principios-HCI
